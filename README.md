@@ -1,6 +1,6 @@
 # save-mario
 
-My First Mini Project of a Classic Game.
+Mini Project of a Classic Game.
 
 Install pygame module and reach the directory where mario.py is stored.
 
